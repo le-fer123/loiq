@@ -1,0 +1,8 @@
+<RCC>
+  <qresource>
+    <file>images/LOIC.ico</file>
+    <file>images/LOIC.png</file>
+    <file>translations/loiq-en_US.qm</file>
+    <file>translations/loiq-ru_RU.qm</file>
+  </qresource>
+</RCC>
